@@ -20,9 +20,7 @@ This App is taken from the code for [Interactive Playground for R Packages: Part
 ### Running the App
 
 - clone the repository
-- bower install
 - select _index.html_
-- Enter a valid stock ticker symbol
 
 
 You can edit the input area text and submit any changes made.
