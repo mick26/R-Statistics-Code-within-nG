@@ -24,7 +24,7 @@ This App is taken from the code for [Interactive Playground for R Packages: Part
 
 
 You can edit the input area text and submit any changes made.
-You can also copy and paste the code samples from the [rCharts Repo](https://github.com/ramnathv/rCharts) into the input area and hit the _Submit_ button. In the output area you should now be presented with a graph of the output. [Here is a tutorial on how rCharts work](http://rcharts.io/howitworks/). 
+You can also copy and paste the code samples from the [rCharts Repo](https://github.com/ramnathv/rCharts) into the input area and hit the _Submit_ button. In the output area you should now be presented with a graph of the output. [Here is a tutorial on how rCharts works](http://rcharts.io/howitworks/). 
 
 
 ### Screen Shot
