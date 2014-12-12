@@ -1,4 +1,4 @@
-## Running 'R' statistical code from within AngularJS
+## Running 'R' code from within AngularJS
 
 This App allows you to run [R](http://www.r-project.org/) code from within this Angular App and visualise the output as a plot on the screen.
 
